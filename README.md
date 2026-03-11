@@ -30,8 +30,6 @@ The following tools were used throughout the project:
 
 * **SQL Server** → Data exploration, cleaning, and analytical queries
 * **Power BI** → Data modeling and building an interactive dashboard
-* **Gamma** → Creating a presentation for the final insights
-
 ---
 
 ## Project Steps
@@ -106,5 +104,3 @@ git clone https://github.com/MoaazAreshy/Pizza-Sales-Analysis.git```
 2. Open the **SQL files** in SQL Server and run the queries to explore the analysis.
 
 3. Open the **Power BI (.pbix)** file to view the interactive dashboard.
-
-4. Review the **final presentation** created using Gamma for a summary of insights.
